@@ -1,0 +1,21 @@
+{
+  "name": "@sedracoin/ux",
+  "version": "1.0.30",
+  "description": "Sedra Wallet User Interface Framework",
+  "main": "sedra-ux.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedracoin/node-sedra-ux"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "files": [
+    "sedra-ux.js",
+    "sedra-ux.css",
+    "src",
+    "README.md",
+    "LICENSE",
+    "resources"
+  ]
+}
